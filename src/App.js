@@ -38,7 +38,7 @@ function App() {
       </h1>
     </div>
 
-    <h1>Welcome to Online Timer</h1>
+    <h1 className="text-align">Welcome to Online Timer</h1>
     </>
    
   );
